@@ -1,2 +1,2 @@
 # vitaxpress
-A medical website landingpage
+A medical website landing page
